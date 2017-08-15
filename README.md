@@ -6,3 +6,5 @@ Two major assignments. Worked solo on the first one and worked with another stud
 A1 -> event.py, store.py, simulation.py, container.py
 
 A2 -> controller.py, solver.py, view.py, puzzle.py, word_ladder_puzzle.py, sudoku_puzzle.py
+
+Instructor: [David Liu](http://www.cs.toronto.edu/~david/)
